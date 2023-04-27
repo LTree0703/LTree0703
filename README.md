@@ -1,4 +1,8 @@
-### Hi there 👋
+### LTree0703 (Livear)
+
+Halo:)
+BEng Year 1 | The University of Hong Kong
+
 
 <!--
 **LTree0703/LTree0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
