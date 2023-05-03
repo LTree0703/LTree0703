@@ -1,7 +1,6 @@
 ### LTree0703 (Livear)
 
-Halo:)
-BEng Year 1 | The University of Hong Kong
+To infinity and beyond:)
 
 
 <!--
